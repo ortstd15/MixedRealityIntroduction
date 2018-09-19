@@ -1,0 +1,2 @@
+C:\Users\Stefan Ortner\OneDrive\OneDrive - HTBLA Kaindorf\Mixed Reality\MixedRealityIntroduction\App\GeneratedProjects\UWP\Unity.TextMeshPro\obj\x86\Release\x86\Release\Unity.TextMeshPro.csprojAssemblyReference.cache
+C:\Users\Stefan Ortner\OneDrive\OneDrive - HTBLA Kaindorf\Mixed Reality\MixedRealityIntroduction\App\GeneratedProjects\UWP\Unity.TextMeshPro\obj\x86\Release\x86\Release\Unity.TextMeshPro.csproj.CoreCompileInputs.cache
